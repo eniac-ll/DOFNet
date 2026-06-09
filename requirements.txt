@@ -1,0 +1,17 @@
+timm==0.5.4 
+einops
+fvcore
+easydict
+matplotlib
+numpy==1.21.0
+yacs
+scikit-image==0.19.3
+pillow
+torch==2.4.1
+tensorboard
+torchmetrics
+scikit-learn
+seaborn
+openpyxl
+thop
+grad-cam
